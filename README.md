@@ -14,3 +14,4 @@ Clean UI: Enjoy a fresh, modern look with a light color scheme designed to enhan
 Overview
 Whether you're tracking your daily workouts or looking to build consistent habits, this app is your perfect companion to help you stay on track and achieve your fitness goals. Ready to elevate your fitness journey? Download the app and get started today!
 
+![PRESETAION!](assets/TrackFit.png)
